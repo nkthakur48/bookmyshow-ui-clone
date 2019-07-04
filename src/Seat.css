@@ -1,0 +1,16 @@
+.seat {
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 0.5rem;
+}
+.seat-0 {
+  /* Empty Seat */
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+.seat-1 {
+  /* Filled Seat */
+  background-color: #cecece;
+  border: 1px solid #cecece;
+  color: #ffffff;
+}
